@@ -1,0 +1,25 @@
+{
+  "name": "TDD-roman-numeral",
+  "version": "1.0.0",
+  "description": "Practising TDD making a function converting numbers to roman numerals",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape */romanizer.test.js | tap-spec",
+    "test:watch": "nodemon -q -x 'npm test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrmstockdale/TDD-roman-numeral.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrmstockdale/TDD-roman-numeral/issues"
+  },
+  "homepage": "https://github.com/hrmstockdale/TDD-roman-numeral#readme",
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.11.0"
+  }
+}
