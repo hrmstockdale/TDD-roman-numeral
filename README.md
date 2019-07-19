@@ -4,6 +4,7 @@
 
 - Practising TDD making a function converting numbers to roman numerals
 - See romanizerWithCommentedCode.js to better how the function developed whilst iterating through a red-green-refactor flow
+- Guided by Ray Sinnema, see [here](https://remonsinnema.com/2011/12/05/practicing-tdd-using-the-roman-numerals-kata/)
 
 # core learning
 
